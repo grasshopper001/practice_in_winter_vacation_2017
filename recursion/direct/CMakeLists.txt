@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.6)
-project(nanoi)
+project(direct)
 
 set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES main.cpp)
-add_executable(nanoi ${SOURCE_FILES})
+add_executable(direct ${SOURCE_FILES})
